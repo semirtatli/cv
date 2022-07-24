@@ -1,0 +1,33 @@
+body {
+  background-color: #EEEEEE  ;
+}
+
+hr {
+  border-style: dotted;
+  border-color: grey;
+  border-width: 5px 0 0 0;
+  width: 13%;
+}
+h1{
+  color: #4B925B;
+}
+h3{
+  color: #949B40   ;
+}
+ul{
+  list-style-position: inside;
+  margin-right: 60px;
+}
+ol{
+  list-style-position: inside;
+}
+
+/************************************/
+
+.pp {
+  padding-right: 50px;
+}
+
+.first_hr {
+  width: 75%;
+}

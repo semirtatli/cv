@@ -1,0 +1,32 @@
+h1 {
+  color: #E86767;
+  font-size: 30px;
+  text-align: center;
+}
+img {
+  margin-left: 100px;
+  height: 200px;
+  width: 150px;
+  padding: 49px;
+}
+
+h6 {
+  margin-right: 700px;
+  color: #E6D4D4;
+  text-align: center;
+  font-size: 18px;
+}
+
+p {
+  margin-left: 670px;
+  color: #E6D4D4;
+  text-align: center;
+  font-size: 21px;
+}
+
+
+body {
+  background-color: #F9F2ED;
+  align-items: center;
+  align-content: center;
+}
